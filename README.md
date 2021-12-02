@@ -1,17 +1,3 @@
-## AWS login
-
-[http://localhost:3000/paywall](http://localhost:3000/paywall)
-
-create a .env.local file
-
-```yaml
-CLIENT_ID=XXXXXXXXXXXXXXXXXXX
-CLIENT_SECRET=XXXXXXXXXXXXXXXXXXXXXXXXX
-DOMAIN=SOMEWEBSITE.auth.us-east-1.amazoncognito.com
-
-```
-
-
 ## Getting Started
 
 First, run the development server:
